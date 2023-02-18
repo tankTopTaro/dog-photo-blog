@@ -2,5 +2,5 @@
 
 ---
 
-##ToDo
-*Compress images
+## ToDo
+[] Compress images
