@@ -12,13 +12,59 @@
     <!--         MAIN           -->
     <main>
     <!--        ABOUT           -->
-    <section class="about">
-        <h2>Dog Photos</h2>
-        <p>Click here to view more <a href="#" target="_blank">dog photos</a></p>
-        <a href="#">
-            <img src="" alt="" width="400px" height="400px">
-        </a>
-    </section>
+        <section class="about-section">
+            <h2>Dog Photos</h2>
+            <p>Click here to view more <a href="#" target="_blank">dog photos</a></p>
+            <a href="#">
+                <figure>
+                    <img src="./images/IMG20221121065532.jpg" alt="Dog-Family" width="800px" height="600px">
+                </figure>
+                
+            </a>
+        </section>
+    <!--        FEATURED        -->
+        <section class="featured-section">
+            <h2>Dog Lists</h2>
+            <h3>Things My Dogs Love:</h3>
+            <ul>
+                <li>hoomans</li>
+                <li>Dog treats</li>
+                <li>Belly rubs</li>
+            </ul>
+            <figure>
+                <img src="./images/IMG20221014112417.jpg" alt="belly-rub-please" width="600px" height="400px">
+                <figcaption>My dog <em>wants</em> a belly rub</figcaption>
+            </figure>
+            <h3>Three things my dogs hate:</h3>
+            <ol>
+                <li>Cats</li>
+                <li>Groomers</li>
+                <li>Being left alone</li>
+            </ol>
+            <figure>
+                <img src="./images/IMG20220325095712.jpg" alt="sober-at-the-groomer" width="400px" height="600px">
+                <figcaption>Sober being groomed</figcaption>
+            </figure>
+        </section>
+        <!--        FORM        -->
+        <section>
+            <h2>Dog Form</h2>
+            <form action="#">
+                <fieldset>
+                    <legend>Is your dog an indoor or an outdoor dog?</legend>
+                    <label><input type="radio" id="indoor" name="indoor-outdoor" value="indoor" checked>Indoor</label>
+                    <label><input type="radio" id="outdoor" name="indoor-outdoor" value="outdoor">Outdoor</label>
+                </fieldset>
+                <fieldset>
+                    <legend>What is your dog personality?</legend>
+                    <input type="checkbox" name="personality" id="loving" value="loving" checked><label for="loving">Loving</label>
+                    <input type="checkbox" name="personality" id="lazy" value="lazy"><label for="lazy">Lazy</label>
+                    <input type="checkbox" name="personality" id="energetic" value="energetic"><label for="energetic">Energetic</label>
+                </fieldset>
+                <input type="text" name="cuteDogs1" placeholder="Cute dogs url" required>
+                <button type="submit">Submit</button>
+            </form>
+        </section>
     </main>
     <!--        FOOTER          -->
     <footer></footer>
