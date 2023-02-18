@@ -1,9 +1,14 @@
 # Dog-Photo-Blog
 
-```[tasklist]
-### Tasks
-- [] https://github.com/octo-org/octo-repo/issues/45
-- [] Draft issue title
-```
+### Solar System Exploration, 1950s – 1960s
 
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
 
