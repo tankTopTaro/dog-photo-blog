@@ -1,14 +1,7 @@
 # Dog-Photo-Blog
 
-### Solar System Exploration, 1950s – 1960s
+### ToDo
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [ ] Compress images for web use
+- [ ] Improve siteloading times
 
