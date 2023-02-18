@@ -3,4 +3,4 @@
 ---
 
 ## ToDo
-[] Compress images
+[*] Compress images
