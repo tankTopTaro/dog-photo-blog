@@ -3,4 +3,5 @@
 ---
 
 ## ToDo
-[*] Compress images
+- [x] Compress images
+- [x] Improve loading speed
