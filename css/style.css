@@ -32,7 +32,8 @@ main, .featured-section, .about-section {
     margin: 10px;
 }
 
-#home {
+#home, .photo-gallery {
+    color:#313437;
     background: linear-gradient(180deg, rgba(229,205,108,0.08) 0%, rgba(249,243,185,0.48) 35%, rgba(255,255,255,0.80) 100%);
     border-radius: 25px;
 }
@@ -50,12 +51,6 @@ main, .featured-section, .about-section {
 .img-fluid {
   width: 300px;
   height: 400px;
-}
-
-.photo-gallery {
-  color:#313437;
-  background: linear-gradient(180deg, rgba(229,205,108,0.08) 0%, rgba(249,243,185,0.48) 35%, rgba(255,255,255,0.80) 100%);
-  border-radius: 25px;
 }
   
 .photo-gallery p {
